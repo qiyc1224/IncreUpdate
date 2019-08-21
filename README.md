@@ -1,4 +1,4 @@
-# IncreUpdate-Android 文档
+# IncreUpdate-Android 文档说明
 Android使用bsdiff 的增量更新工具.Android  java
 
 本项目使用bsdiff 进行老apk 文件和 补丁包patch  的合成操作。
